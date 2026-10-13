@@ -1,0 +1,1 @@
+"""Core pipeline: decode, align, composite, encode."""
