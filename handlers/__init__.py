@@ -1,0 +1,1 @@
+"""Command handlers: render, inspect, list."""
