@@ -1,0 +1,1 @@
+"""Plugin host: contracts, loader, registry, and bundled plugins."""
